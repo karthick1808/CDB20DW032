@@ -1,0 +1,11 @@
+a="Hello karthick How are you"
+print(a)
+print(len(a))
+print(a[0])
+print(a[25])
+print(a[6:14])
+print(a[:14])
+print(a[6:])
+print(a[-1])
+print(a[-2])
+print(a[-10:-3])
